@@ -1,0 +1,21 @@
+import time
+#AREA CALCULATION of CIRCLE
+pi = 3.14
+print("HI")
+time.sleep(1)
+print("Pls type the following numbers properply for perimeter")
+radius = float(input("type length value after equal to sign = "))
+print("calculating pls wait .......")
+time.sleep(1)
+print("...............................")
+time.sleep(1)
+print(2 * pi * radius)
+print("          ")
+time.sleep(1)
+print("calculating area pls wait .......")
+time.sleep(1)
+print("................................")
+time.sleep(1)
+print(radius*2 * pi)
+time.sleep(10)
+exit()
