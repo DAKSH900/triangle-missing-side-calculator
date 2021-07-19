@@ -2,7 +2,7 @@ import time
 #AREA CALCULATION of TRIANGLE 
 print("HI")
 time.sleep(1)
-print("Pls type the following numbers properply for perimeter")
+print("Pls type the following numbers properply for perimeter & area")
 height = float(input("type height value after equal to sign = "))
 base = float(input("type base value after equal to sign = "))
 hypotenuse = float(input("type hypotenuse value after equal to sign = "))
